@@ -43,7 +43,7 @@ function PublicationFooter(props: any) {
             </a>
           </div>
         </div>
-        {disableFooterBranding ? (
+        {/* {disableFooterBranding ? (
           <>
             {logo && (
               <div className="flex flex-col items-center">
@@ -77,7 +77,7 @@ function PublicationFooter(props: any) {
               - Home for tech writers and readers
             </p>
           </div>
-        )}
+        )} */}
       </div>
     </footer>
   );

@@ -37,14 +37,14 @@ export const Header = (props: Props) => {
 						</div>
 					</div>
 
-					<div
+					{/* <div
 						className={twJoin(
 							'flex flex-row items-center','dark:text-white',
 						)}
 					>
 						<HeaderBlogSearch publication={publication} />
 						<Button as="a" href="#" type="primary" label="Sign up" />
-					</div>
+					</div> */}
 				</div>
 
 				{/* Logo for mobile view */}
